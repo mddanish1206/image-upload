@@ -14,3 +14,6 @@ $node index.js
 visit localhost:2007 and upload your images..!
 
 that's all...!!!
+
+
+Have Fun !! // 
