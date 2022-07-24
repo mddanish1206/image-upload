@@ -11,7 +11,7 @@ all set to go
 now run the program
 
 $node index.js
-visit localhost:2007 and upload your images..!
+visit localhost:2007 and upload your files..!
 
 that's all...!!!
 
